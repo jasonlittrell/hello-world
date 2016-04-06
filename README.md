@@ -1,2 +1,3 @@
 # hello-world
-Just another Repository stoog
+Just another Repository 
+My Name is Jason Littrell.  I am not a stoog.
